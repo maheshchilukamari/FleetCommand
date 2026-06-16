@@ -199,18 +199,37 @@ Fresh Docker databases include:
 
 ## Screenshots
 
-Add screenshots after running locally:
+Save screenshots in `docs/screenshots/` using the filenames below. GitHub will render them automatically once the files are committed.
 
-- FleetCommand dashboard
-- Live tracking map
-- Route replay
-- Driver coaching view
-- Asset inventory
-- Maintenance planner
-- Grouped alerts
-- Executive reports
-- FleetCommand Copilot
-- Telematics monitoring center
+### FleetCommand Dashboard
+![FleetCommand Dashboard](docs/screenshots/dashboard.png)
+
+### Live Tracking Map
+![Live Tracking Map](docs/screenshots/live-tracking.png)
+
+### Route Replay
+![Route Replay](docs/screenshots/route-replay.png)
+
+### Driver Coaching View
+![Driver Coaching View](docs/screenshots/drivers.png)
+
+### Asset Inventory
+![Asset Inventory](docs/screenshots/assets.png)
+
+### Maintenance Planner
+![Maintenance Planner](docs/screenshots/maintenance.png)
+
+### Grouped Alerts
+![Grouped Alerts](docs/screenshots/alerts.png)
+
+### Executive Reports
+![Executive Reports](docs/screenshots/reports.png)
+
+### FleetCommand Copilot
+![FleetCommand Copilot](docs/screenshots/copilot.png)
+
+### Telematics Monitoring Center
+![Telematics Monitoring Center](docs/screenshots/monitoring.png)
 
 ## Resume Bullet Points
 
