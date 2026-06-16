@@ -231,14 +231,6 @@ Save screenshots in `docs/screenshots/` using the filenames below. GitHub will r
 ### Telematics Monitoring Center
 ![Telematics Monitoring Center](docs/screenshots/monitoring.png)
 
-## Resume Bullet Points
-
-- Developed FleetCommand, a full-stack fleet and asset operations platform using React, FastAPI, PostgreSQL, and interactive mapping to monitor vehicles, drivers, routes, alerts, maintenance, and assets.
-- Built a simulated telematics pipeline that generates realistic GPS, speed, fuel, mileage, engine-hour, driver-safety, and maintenance data for live vehicle tracking.
-- Implemented route intelligence features including real-time vehicle tracking, route replay, trip history, ETA visibility, stop tracking, and route deviation alerts.
-- Designed analytics modules for fleet health, fuel cost, driver risk, maintenance prediction, asset audits, and operational reporting.
-- Built FleetCommand Copilot, a rule-based LLM-ready operations assistant that answers natural-language questions and generates actionable fleet recommendations.
-- Added Dockerized deployment structure, API documentation, CI/CD-ready project structure, and scalable database models.
 
 ## Future Improvements
 
